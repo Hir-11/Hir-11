@@ -16,7 +16,6 @@
 </p>
 
 
-🎓 Computer Science & Data Science Student at Rutgers University
 🔭 Machine Learning & Software Engineering Enthusiast
 💡 Passionate about Building Human-Centric AI Products & Scalable Intelligent Systems
 
@@ -80,9 +79,20 @@ I love tackling real-world problems through clean code, data-driven solutions, a
   
 ---
 
-📊 GitHub Stats:
-![GitHub Activity](https://img.shields.io/badge/GitHub-Active_Developer-181717?style=for-the-badge&logo=github&logoColor=white)
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Hir-11&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hir-11&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hir-11&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/6B8AFF/Hir-11" alt="GitHub Contribution Graph" />
+</p>
 ---
 
 ✨ Fun Fact:
