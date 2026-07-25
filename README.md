@@ -26,6 +26,36 @@ Tools & Environments: Git, GitHub, Linux/Unix, VS Code, Jupyter Notebooks
 
 ---
 
+🛠 Tech Stack
+
+#### Languages
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,c,js,html,css" />
+  </a>
+</p>
+
+#### Frameworks & Libraries
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nodejs" />
+  </a>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+</p>
+
+#### Tools & Environments
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
+  </a>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+</p>
+
+
+---
+
 🚀 Key Experience & Leadership:
 
 - Break Through Tech AI Fellow: Collaborating on machine learning foundations and industry-level AI studio projects.
