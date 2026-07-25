@@ -42,7 +42,7 @@ Tools & Environments: Git, GitHub, Linux/Unix, VS Code, Jupyter Notebooks
 ---
 
 📊 GitHub Stats:
-![GitHub Activity](https://img.shields.io/badge/GitHub-Active_Developer-181717?style=for-the-badge&logo=github&logoColor=white) 
+![GitHub Activity](https://img.shields.io/badge/GitHub-Active_Developer-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
