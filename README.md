@@ -42,7 +42,7 @@ Tools & Environments: Git, GitHub, Linux/Unix, VS Code, Jupyter Notebooks
 ---
 
 📊 GitHub Stats:
-![Hir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hir-11&show_icons=true&theme=radial)
+![GitHub Activity](https://img.shields.io/badge/GitHub-Active_Developer-181717?style=for-the-badge&logo=github&logoColor=white) 
 
 ---
 
