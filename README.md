@@ -1,3 +1,7 @@
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=hir%20bhatt&fontSize=50&animation=fadeIn)
+
+
 👋 Hi, I'm Hir Bhatt!
 
 🎓 Computer Science & Data Science Student at Rutgers University
