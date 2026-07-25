@@ -1,20 +1,20 @@
 
 <p align="center">
-  <!-- Animated Typing Headline -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6B8AFF,100:C77DFF&height=200&section=header&text=Hir%20Bhatt&fontSize=55&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=CS%20%2B%20Data%20Science%20%40%20Rutgers&descAlignY=60&descSize=20" alt="header" width="100%"/>
+</p>
+
+<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6B8AFF&center=true&vCenter=true&width=500&lines=CS+%2B+Data+Science+%40+Rutgers;Machine+Learning+%7C+Software+Engineering;Data+Engineering+%7C+NLP+%7C+AI%2FML;Peer+Mentor+%2B+Student+Leader" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <!-- Clickable Badges -->
   <a href="https://www.linkedin.com/in/hir-bhatt"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Hir-11"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="mailto:hpb35@scarletmail.rutgers.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=Hir-11&color=6B8AFF&style=flat-square&label=Profile+views" alt="Profile Views" />
 </p>
-
-
 
 
 🎓 Computer Science & Data Science Student at Rutgers University
