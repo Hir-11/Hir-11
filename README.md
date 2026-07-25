@@ -1,11 +1,10 @@
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9AC5,100:C77DFF&height=200&section=header&text=Hir%20Bhatt&fontSize=55&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=CS%20%2B%20Data%20Science%20%40%20Rutgers&descAlignY=60&descSize=20" alt="header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9AC5,100:C77DFF&height=200&section=header&text=Hir%20Bhatt&fontSize=55&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=CS%20%2B%20DS%20%40%20Rutgers%20University&descAlignY=60&descSize=20" alt="header" width="100%"/>
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6B8AFF&center=true&vCenter=true&width=500&lines=CS+%2B+Data+Science+%40+Rutgers+University;Data+Engineering+%7C+NLP+%7C+AI%2FML;Peer+Mentor+%2B+Student+Leader" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6B8AFF&center=true&vCenter=true&width=500&lines=Data+Engineering+%7C+NLP+%7C+AI%2FML;Peer+Mentor+%2B+Student+Leader" alt="Typing SVG" />
   </a>
 </p>
 
