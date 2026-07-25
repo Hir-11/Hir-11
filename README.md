@@ -16,7 +16,7 @@
 </p>
 
 
-🔭 Machine Learning & Software Engineering Enthusiast
+ Machine Learning & Software Engineering Enthusiast
 💡 Passionate about Building Human-Centric AI Products & Scalable Intelligent Systems
 
 I love tackling real-world problems through clean code, data-driven solutions, and collaborative software development. I’m big on continuous learning and taking initiative—whether that's mentoring peers, tutoring technical concepts, or building applications. (Ask me about growing my technical skills and leadership as a Break Through Tech AI Fellow!) Currently, I'm focusing on strengthening my full-stack and ML capabilities while seeking opportunities to contribute to impactful tech projects.
