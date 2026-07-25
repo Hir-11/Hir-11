@@ -18,14 +18,6 @@ I love tackling real-world problems through clean code, data-driven solutions, a
 
 ---
 
-🛠 Tech Stack:
-
-Languages: Python, Java, C, JavaScript, HTML, CSS
-Frameworks & Libraries: React, Node.js, Pandas, NumPy, Scikit-Learn
-Tools & Environments: Git, GitHub, Linux/Unix, VS Code, Jupyter Notebooks
-
----
-
 🛠 Tech Stack
 
 #### Languages
@@ -59,6 +51,7 @@ Tools & Environments: Git, GitHub, Linux/Unix, VS Code, Jupyter Notebooks
 🚀 Key Experience & Leadership:
 
 - Break Through Tech AI Fellow: Collaborating on machine learning foundations and industry-level AI studio projects.
+- Support Agent @ Learnvia: Resolving customer inquiries, troubleshooting platform workflows, and assisting users with technical support operations.
 - Peer Mentor & Tutor at Rutgers: Guiding fellow students through computer science concepts and academic growth.
 -  Initiatives Chair at Rutgers Commuter Student Association (RCSA): Manage the RCSA website, spearhead new student initiatives with launching mentor-mentee program this year for upcoming commuters, coordinate fundraising efforts, and design branded merchandise.
 
